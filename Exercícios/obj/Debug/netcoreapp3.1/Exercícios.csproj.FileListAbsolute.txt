@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.exe
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.deps.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.runtimeconfig.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.dll
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\bin\Debug\netcoreapp3.1\Exercícios.pdb
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.dll
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.pdb
+C:\Users\guilh\Desktop\Estudos\DotNet\repos\Estrutura Repetição While\Exercícios\Exercícios\obj\Debug\netcoreapp3.1\Exercícios.genruntimeconfig.cache
